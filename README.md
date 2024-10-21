@@ -1,7 +1,9 @@
 **Pokedex**
+
 Este proyecto es una aplicación de escritorio creada como parte de mis estudios, que permite registrar cualquier Pokémon (exista o no) y cuenta con un sistema de combate básico. La aplicación utiliza una interfaz gráfica hecha con Java Swing.
 
 **Características**
+
 Registro de Pokémon con sus respectivos tipos.
 Capacidad de añadir nuevos Pokémon al sistema.
 Sistema de combate básico entre Pokémon.
@@ -10,6 +12,7 @@ Requisitos
 Para ejecutar este proyecto necesitas tener instalado lo siguiente:
 
 Java 8 o superior.
+
 **Base de Datos
 **El proyecto incluye un archivo pokemon.db que es utilizado para almacenar la información de los Pokémon registrados.
 
